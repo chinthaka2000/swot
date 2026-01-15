@@ -1318,7 +1318,6 @@ singimail.rs
 edu.hanbat.ac.kr
 harding.edu
 ufpa.br
-kmutt.ac.th
 univ-dbkm.dz
 nuevoleon.tecnm.mx
 whistlingwoods.net
@@ -1756,3 +1755,13 @@ mokpo.ac.kr
 sman1kendal.sch.id
 my.students.amrita.edu
 amrita.edu
+aluno.uema.br
+uema.br
+athonedu.com.br
+kemenag.go.id
+ahu.edu.jo
+student.cascadia.edu
+cascadia.edu
+student.edu.az
+univ-tlemcen.dz
+dut.udn.vn
